@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Proba1</string>
+
+    <string name="day1_title">Día 1: 1oneam</string>
+    <string name="day1_description">Fai algo só para ti. Un son, unha frase, un movemento. Non o publiques. Que quede entre ti e o ruído.</string>
+
+    <string name="day2_title">Día 2: Osamason</string>
+    <string name="day2_description">Non busques harmonía, busca textura. Fai que algo soe feo e perfecto ao mesmo tempo.</string>
+
+    <string name="day3_title">Día 3: TDF</string>
+    <string name="day3_description">Grava a túa voz susurrando algo que non te atreves a dicir en alto. Escóitaa como se fose doutro corpo.</string>
+
+    <string name="day4_title">Día 4: Nettspend</string>
+    <string name="day4_description">Crea algo con cero planificación. A mellor idea é a que non sabes de onde veu.</string>
+
+    <string name="day5_title">Día 5: OKaymar</string>
+    <string name="day5_description">Fai arte coma se estivese prohibido. Non pidas permiso, nin desculpas.</string>
+
+    <string name="day6_title">Día 6: BabySantana</string>
+    <string name="day6_description">Pensa no neno que fuches e no son que lle gustaría facer. Dálle esa pista hoxe.</string>
+
+    <string name="day7_title">Día 7: Summrs</string>
+    <string name="day7_description">Grava algo que pareza arrogante, pero en realidade sexa unha defensa. O ego tamén é armadura.</string>
+
+    <string name="day8_title">Día 8: Autumn!</string>
+    <string name="day8_description">Pensa nun recordo cálido e mételle auto-tune mental. Os sentimentos tamén se poden distorsionar.</string>
+
+    <string name="day9_title">Día 9: Kankan</string>
+    <string name="day9_description">Fai ruído con ritmo. Bate algo, dá golpes na mesa, fai un beat co corpo. O groove é primitivo.</string>
+
+    <string name="day10_title">Día 10: Lucki</string>
+    <string name="day10_description">Pensa no que perdes cando vas rápido. Move despacio hoxe, como se o tempo fose un loop.</string>
+
+    <string name="day11_title">Día 11: Dom Corleo</string>
+    <string name="day11_description">Crea unha liña que non teñas medo de repetir cen veces. A obsesión tamén é identidade.</string>
+
+    <string name="day12_title">Día 12: Goonie</string>
+    <string name="day12_description">Fai algo sen pensar no resultado. Non todo ten que mellorar, algunhas cousas só teñen que existir.</string>
+
+    <string name="day13_title">Día 13: sgpwes</string>
+    <string name="day13_description">Dille algo bonito a ti mesmo, pero con voz de freestyle. O amor propio tamén rima.</string>
+
+    <string name="day14_title">Día 14: 454</string>
+    <string name="day14_description">Busca un son da túa infancia e dálle outro significado. O pasado é un plugin.</string>
+
+    <string name="day15_title">Día 15: Izaya Tiji</string>
+    <string name="day15_description">Fai algo que ninguén entenda, pero que ti saibas que é real. A autenticidade é ruído puro.</string>
+
+    <string name="day16_title">Día 16: 1600j</string>
+    <string name="day16_description">Repite unha frase ata que perda sentido. Nesa perda, atoparás algo novo.</string>
+
+    <string name="day17_title">Día 17: Lil Playah</string>
+    <string name="day17_description">Crea algo curto pero intenso. Unha idea de 10 segundos pode ser máis eterna que unha canción longa.</string>
+
+    <string name="day18_title">Día 18: SwizZy B</string>
+    <string name="day18_description">Mestura algo triste cun ritmo feliz. A contradición é o sangue do underground.</string>
+
+    <string name="day19_title">Día 19: 4jay</string>
+    <string name="day19_description">Cambia o lugar onde creas. O mesmo loop soa distinto se o aire é outro.</string>
+
+    <string name="day20_title">Día 20: Jaydes</string>
+    <string name="day20_description">Fai unha canción sen pensar en xénero. Só segue o son que sae do peito.</string>
+
+    <string name="day21_title">Día 21: HXNEY</string>
+    <string name="day21_description">Borra algo que te guste. Aprende a deixar ir. A destrución tamén é arte.</string>
+
+    <string name="day22_title">Día 22: Yvngxchris</string>
+    <string name="day22_description">Pensa no futuro como nun sample. Podes cortalo, repetilo, cambialo… pero non o podes parar.</string>
+
+    <string name="day23_title">Día 23: Slump6s</string>
+    <string name="day23_description">Non fagas nada hoxe. Só deixa que o ruído mental se converta en silencio natural.</string>
+
+    <string name="day24_title">Día 24: Lil Shine</string>
+    <string name="day24_description">Fai algo que soe barato pero sexa caro en alma. O valor non está na mestura, senón na intención.</string>
+
+    <string name="day25_title">Día 25: Bktherula</string>
+    <string name="day25_description">Imita un son que te fascine coa boca. O corpo tamén pode ser un sintetizador.</string>
+
+    <string name="day26_title">Día 26: Iayze</string>
+    <string name="day26_description">Pensa en algo que te fixo dano e dálle auto-tune. Convérteo nun pad emocional.</string>
+
+    <string name="day27_title">Día 27: Autumn! (Twin Mix)</string>
+    <string name="day27_description">Grava dúas versións de ti: unha segura e outra rota. Esas dúas voces fan o teu timbre real.</string>
+
+    <string name="day28_title">Día 28: Tana</string>
+    <string name="day28_description">Pensa no que che gustaría oír cando todo vai mal. Escríbeo hoxe, por se mañá o necesitas.</string>
+
+    <string name="day29_title">Día 29: Xhulooo</string>
+    <string name="day29_description">Non compares o teu son con ninguén. A túa frecuencia é a túa identidade espiritual.</string>
+
+    <string name="day30_title">Día 30: Kankan</string>
+    <string name="day30_description">Celebra o ruído, o erro, o loop mal cortado. A perfección mata o que o underground mantén vivo.</string>
+
+</resources>
